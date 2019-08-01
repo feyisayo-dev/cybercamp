@@ -1,0 +1,15 @@
+body {
+    background-color: blue;
+}
+
+p {
+    border:1px solid black; padding:1em;
+}
+
+.first{
+    background-color: yellow;
+}
+
+.second{
+    background-color: green;
+}
